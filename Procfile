@@ -1,1 +1,1 @@
-worker: python Dis.BOT.py
+worker: python RainBowNikBot.py
